@@ -1,5 +1,4 @@
 # SWE_CAP2_Game_Automation
-SEW_CAP_2_Game_automation
 
 # Programming the# Programming the Farming Drone (Report)
 ## Introduction
